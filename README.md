@@ -7,15 +7,15 @@ Repository holding the source code of my full Node.js tutorial on YouTube. ([Wat
 ## PART 01 (INTRO)
 
 - Introduction
-  -> what you are going to learn
-  -> what is Node.js?
-  -> why learn to develop in Node.js
+  - what you are going to learn
+  - what is Node.js?
+  - why learn to develop in Node.js
 - Setting up Node.js & other essentials
-  -> installing Node.js & Editor & terminal
-  -> what is npm?
-  -> multiversion setup with nvm
-  -> multiversion setup with nvm (for windows)
-  -> node.js console (REPL)
+  - installing Node.js & Editor & terminal
+  - what is npm?
+  - multiversion setup with nvm
+  - multiversion setup with nvm (for windows)
+  - node.js console (REPL)
 - Launching Node.js Scripts
 
 ## PART 02 (The basics of Node.js)
@@ -23,12 +23,12 @@ Repository holding the source code of my full Node.js tutorial on YouTube. ([Wat
 - Loose Typing
 - Buffer—Node.js Super Data Type
 - Node.js Globals and Reserved Keywords
-  -> Node.js Process Information
-  -> Accessing Global Scope in Node.js
-  -> Exporting and Importing Modules
+  - Node.js Process Information
+  - Accessing Global Scope in Node.js
+  - Exporting and Importing Modules
 - \_\_dirname vs. process.cwd
 - modules
-  -> Core Modules (http/os/util/url/fs/queryString/...)
+  - Core Modules (http/os/util/url/fs/queryString/...)
 - Reading to and Writing from the File System in Node.js
 - Streaming Data in Node.js
 - Installing Node.js Modules with npm
@@ -40,34 +40,34 @@ Repository holding the source code of my full Node.js tutorial on YouTube. ([Wat
 - Handling incoming data
 - writting better routes & serving external files
 - Debugging Node.js Programs
-  -> Core Node.js Debugger
-  -> Debugging with Node Inspector
+  - Core Node.js Debugger
+  - Debugging with Node Inspector
 - Watching for File Changes
 - CAPSTONE: CREATING YOUR FIRST WEB APPLICATION
 
 ## PART 03 (Using Express.js to Create Node.js Web Apps)
 
 - What Is Express.js?
-  -> The functionality in Node.js
-  -> What Express adds to Node.js
-  -> How Express.js Works
+  - The functionality in Node.js
+  - What Express adds to Node.js
+  - How Express.js Works
 - The core parts of Express
-  -> Middleware
-  -> Routing
-  -> Subapplications
+  - Middleware
+  - Routing
+  - Subapplications
 - What Express is used for
 - The obligatory Hello World
 - Middlewares
-  -> middleware & middleware stack
-  -> static file server
-  -> error-handling
-  -> other useful middleware
+  - middleware & middleware stack
+  - static file server
+  - error-handling
+  - other useful middleware
 - Routing
-  -> what is routing
-  -> the features of routing
-  -> using routers to split up your app
-  -> serving static files
-  -> using express wit https
+  - what is routing
+  - the features of routing
+  - using routers to split up your app
+  - serving static files
+  - using express wit https
 - Using MVC
 - Views (EJS)
 - Persistence with NOSQL (MongoDB)
@@ -94,13 +94,13 @@ Repository holding the source code of my full Node.js tutorial on YouTube. ([Wat
 ## PART 06 (Working with DB)
 
 - NoSQL
-  -> DynamoDB (Cloud DB)
-  -> Redis
+  - DynamoDB (Cloud DB)
+  - Redis
 - SQL
-  -> sqlite
-  -> postgres
+  - sqlite
+  - postgres
 - searche engines
-  -> elasticsearch
+  - elasticsearch
 
 ## PART 07 (DESIGN Principles & Patterns)
 
@@ -112,8 +112,8 @@ Repository holding the source code of my full Node.js tutorial on YouTube. ([Wat
 ## PART 08 (Working with APIs)
 
 - REST
-  -> fetch
-  -> request
+  - fetch
+  - request
 - GraphQL
 
 ## PART 09 (Working with Frontend - MEVN & MERN)
