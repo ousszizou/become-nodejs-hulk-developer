@@ -7,7 +7,16 @@ Repository holding the source code of my full Node.js tutorial on YouTube. ([Wat
 ## PART 02 (The basics of Node.js)
 
 - [] Loose Typing
-- [] Buffer—Node.js Super Data Type
+- [] Streams & Buffers
+  - What is CPU & How does it work?
+  - What is binary code?
+  - How do computers convert numbers to binary data?
+  - How do computers convert characters to binary data?
+  - What is character encoding?
+  - What are streams?
+  - What are buffers & how do they do?
+  - Why buffers in Node.js?
+  - Usage
 - [] Node.js Globals and Reserved Keywords
   - Node.js Process Information
   - Accessing Global Scope in Node.js
@@ -16,7 +25,6 @@ Repository holding the source code of my full Node.js tutorial on YouTube. ([Wat
 - [] modules
   - Core Modules (http/os/util/url/fs/queryString/...)
 - [] Reading to and Writing from the File System in Node.js
-- [] Streaming Data in Node.js
 - [] Installing Node.js Modules with npm
 - [] Hello World Server with HTTP Node.js Module
 - [] The Node Lifecycle & Event Loop
